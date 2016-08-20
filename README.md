@@ -16,8 +16,8 @@
     - The result is saved to the same folder as the input image.
     
 * Face Detection:
-    - % ./run.sh
-    - % ./combine.sh
+    - % bash run.sh
+    - % bash combine.sh
     - Find the training set from Q2/result/training/training.arff
     Find the testing set from Q2/result/testing/testing.arff
     - Import the training set and testing set to WEKA, choose Naive bayes as classifier, then observe the result.
@@ -25,6 +25,6 @@
 #### Q3 folder:
 
 * Classification of Hand-Written Digits:
-    - % ./run.sh
+    - % tcsh run.sh
     - Find the results from Q3/result/*
     - Import the results to WEKA, choose J48 as classifier, then observe the result.
