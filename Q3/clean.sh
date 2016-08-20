@@ -1,3 +1,3 @@
-#!/usr/pkg/bin/tcsh
+#!/bin/bash
 
 rm result/*_*
