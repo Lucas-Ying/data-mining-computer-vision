@@ -2,7 +2,7 @@
 
 mkdir result
 
-bash ./do.sh ../project1-images/3.1/mfeat-digits/
-bash ./do_more.sh ../project1-images/3.1/mfeat-digits/
-bash ./clean.sh
+/usr/pkg/bin/tcsh ./do.sh ../project1-images/3.1/mfeat-digits/
+/usr/pkg/bin/tcsh ./do_more.sh ../project1-images/3.1/mfeat-digits/
+/usr/pkg/bin/tcsh ./clean.sh
 
