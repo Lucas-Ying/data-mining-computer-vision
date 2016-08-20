@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/pkg/bin/tcsh
 
 sed 's/ \+/ /g' $1/mfeat-mor | sed 's/ /,/g' > result/mfeat_mor
 sed 's/$/,/g' result/mfeat_mor > result/mfeat_mor_

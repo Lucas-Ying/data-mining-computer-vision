@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/pkg/bin/tcsh
 
 mkdir result
 mkdir result/training

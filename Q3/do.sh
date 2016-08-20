@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/pkg/bin/tcsh
 
 sed 's/ \+/ /g' $1/mfeat-fac | sed 's/ /,/g' > result/mfeat_fac
 sed 's/ \+/ /g' $1/mfeat-kar| sed 's/ /,/g' > result/mfeat_kar
