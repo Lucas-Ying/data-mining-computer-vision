@@ -1,0 +1,9 @@
+@relation fac
+@attribute mor1 numeric
+@attribute mor2 numeric
+@attribute mor3 numeric
+@attribute mor4 numeric
+@attribute mor5 numeric
+@attribute mor6 numeric
+@attribute classes {0 1 2 3 4 5 6 7 8 9}
+@data
